@@ -1,0 +1,61 @@
+body.cuerpo{
+    background-color:rgb(204, 204, 197);
+}
+
+h1.centrado{
+    text-align: center;
+}
+p.enlaces{
+    text-align: center;
+    background-color: darkcyan;
+}
+section.blanca{
+    background-color: white;
+}
+img.imagen1{
+   float: left;
+    
+}
+img.imagen2{
+    float: right;
+}
+p.espacioazul{
+    background-color: blue;
+}
+
+p.rojo{
+    background-color: red;
+}
+p.letraroja{
+    color: red;
+}
+section.azulclaro{
+    background-color: skyblue;
+
+}
+section.roja{
+   
+    background-color: teal;
+}
+section.verde{
+    background-color: yellowgreen;
+    color: blue;
+}
+
+ol.romana{
+    list-style-type: upper-roman
+}
+
+ol.letras{
+    list-style-type: upper-alpha;
+}
+
+span.amarillo{
+    background-color: yellow;
+}
+span.tachado{
+    text-decoration: line-through;
+}
+footer.pie{
+    text-align: center;
+}
